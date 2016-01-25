@@ -13,7 +13,7 @@
     "url": "https://github.com/krampstudio/aja.js.git"
   },
   "license": "MIT",
-  "main": "src/ajax.js",
+  "main": "src/aja.js",
   "scripts": {
     "test": "grunt test"
   },
